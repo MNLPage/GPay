@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPay.Web", "GPay\GPay.Web.csproj", "{C0C87381-17C6-48AD-A1B3-625C3DBF0564}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPay.Admin", "GPay.Admin\GPay.Admin.csproj", "{7563091A-8963-449C-8917-FBEAEFFA150A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPay.BLL", "GPay.BLL\GPay.BLL.csproj", "{C4D0616D-2C72-43D7-A384-A54B7CD25ACD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPay.Model", "GPay.Model\GPay.Model.csproj", "{87EC6B0F-1ADA-4B41-BA4C-BC649504E448}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPay.DAL", "GPay.DAL\GPay.DAL.csproj", "{B69C649B-C437-490B-A031-700C2ED7739A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPay.Utils", "GPay.Utils\GPay.Utils.csproj", "{CC5A1F58-7229-4A1D-B8A9-146F4531F23C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0C87381-17C6-48AD-A1B3-625C3DBF0564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0C87381-17C6-48AD-A1B3-625C3DBF0564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0C87381-17C6-48AD-A1B3-625C3DBF0564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0C87381-17C6-48AD-A1B3-625C3DBF0564}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7563091A-8963-449C-8917-FBEAEFFA150A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7563091A-8963-449C-8917-FBEAEFFA150A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7563091A-8963-449C-8917-FBEAEFFA150A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7563091A-8963-449C-8917-FBEAEFFA150A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4D0616D-2C72-43D7-A384-A54B7CD25ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4D0616D-2C72-43D7-A384-A54B7CD25ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4D0616D-2C72-43D7-A384-A54B7CD25ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4D0616D-2C72-43D7-A384-A54B7CD25ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87EC6B0F-1ADA-4B41-BA4C-BC649504E448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87EC6B0F-1ADA-4B41-BA4C-BC649504E448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87EC6B0F-1ADA-4B41-BA4C-BC649504E448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87EC6B0F-1ADA-4B41-BA4C-BC649504E448}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B69C649B-C437-490B-A031-700C2ED7739A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B69C649B-C437-490B-A031-700C2ED7739A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B69C649B-C437-490B-A031-700C2ED7739A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B69C649B-C437-490B-A031-700C2ED7739A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC5A1F58-7229-4A1D-B8A9-146F4531F23C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC5A1F58-7229-4A1D-B8A9-146F4531F23C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC5A1F58-7229-4A1D-B8A9-146F4531F23C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC5A1F58-7229-4A1D-B8A9-146F4531F23C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
